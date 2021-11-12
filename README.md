@@ -15,20 +15,28 @@ No memory leaks.
 
 ## Requirements
 
-We interpret:
+* We interpret:  
 
-special character `\` like `'\\''`, sequence of characters for $, single and double quotes.
+    * special character `\` like `'\\''`; 
 
-Minishell has working history;
+    * sequence of characters for $;
 
-The right executable search and launch based on the PATH variable or by using
+    * single and double quotes.
+
+* Minishell has working history;
+
+
+* The right executable search and launch based on the PATH variable or by using
 relative or absolute path;
 
-Working redirections (`<`, `<<`, `>`, `>>`);
 
-Working pipes;
+* Working redirections (`<`, `<<`, `>`, `>>`);
 
-Signals (`ctrl-C`, `ctrl-D` and `ctrl-\`)
+
+* Working pipes;
+
+
+* Signals (`ctrl-C`, `ctrl-D` and `ctrl-\`)
 
 Also we realised some commands: `echo`, `cd`, `pwd`, `export`, `unset`, `env` and `exit`. 
 
