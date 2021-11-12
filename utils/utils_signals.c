@@ -1,4 +1,4 @@
-#include "libshell.h"
+#include "../libshell.h"
 
 void	catch_signal_c(int signum)
 {

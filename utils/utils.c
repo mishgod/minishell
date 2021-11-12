@@ -1,4 +1,4 @@
-#include "libshell.h"
+#include "../libshell.h"
 
 int	count_args(char **arr)
 {
