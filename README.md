@@ -7,7 +7,7 @@ This is group project. We create a simple shell like bash. This project is about
 
 In this project we use my own library - [libft](https://github.com/mishgod/libft). Also we wrote some utils function to different tasks.
 
-Compilation was with flags: `gcc -Wall -Wextra -Werror`.
+Compilation was with flags: `gcc -L. -lhell -Llib -lft -L/Users/$(USER)/.brew/Cellar/readline/8.1/lib/ -lreadline`.
 
 Project has written in accordance with the Norminette. 
 
