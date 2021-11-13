@@ -5,7 +5,7 @@
 This is group project. We create a simple shell like bash. This project is about processing and file descriptors.
 
 
-In this project we use my own library - (libft)[https://github.com/mishgod/libft]. Also we wrote some utils function to different tasks.
+In this project we use my own library - [libft](https://github.com/mishgod/libft). Also we wrote some utils function to different tasks.
 
 Compilation was with flags: `gcc -Wall -Wextra -Werror`.
 
